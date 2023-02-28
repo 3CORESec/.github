@@ -1,11 +1,18 @@
 # Welcome Defender 👮🏼‍♂️ 🛡
 
-## About us
 3CORESec is a boutique information security company that specializes in the development of innovative tools, techniques and procedures for adversary detection on cloud, endpoint and network. 
 
-## Community Projects
-Here you'll find some of the work we've open-sourced. Make sure to visit our [blog](https://blog.3coresec.com), check our detection marketplace at [dtection.io](https://dtection.io) _(where some of our rulesets are made available for free)_ as well as [3CORESec Blacklist 📓](https://blacklist.3coresec.net), our IOC sharing platform that makes a subset of the data from our honeypot network available to the public. 
+## Quick Links
 
-Visit [lawmaker.cloud](https://lawmaker.cloud) 🦅 if you'd like to manage Suricata IDS sensors at scale! 
+* 📚 [Our blog](https://blog.3coresec.com) - Original research and products announcements
+* 🔍 [dtection.io](https://dtection.io) - Our detection marketplace for signatures and rules
+* 📓 [3CORESec Blacklist](https://blacklist.3coresec.net) - Our IOC sharing platform 
+* 🦅 [lawmaker.cloud](https://lawmaker.cloud) - Our SaaS platform to manage Suricata IDS sensors at scale
+* 🗣️ [@3CORESec](https://twitter.com/3CORESec) - Reach out to us on Twitter
+* ☕️ [Virtual cup of coffee](https://calendly.com/3coresec/coffee) - Schedule a meeting to know more about us and our projects
 
-Reach out to us on Twitter ([@3CORESec](https://twitter.com/3CORESec)) or schedule a [virtual ☕️](https://calendly.com/3coresec/coffee) to learn more about us or our projects.
+## Our projects on Github
+
+Check the pinned repositories below for some of our cool projects!
+
+# 👇🏼
